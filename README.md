@@ -1,3 +1,15 @@
+# Tugas Pengembangan Aplikasi Mobile - KMP
+
+Aplikasi Hello World menggunakan **Kotlin Multiplatform (KMP)** dan **Compose Multiplatform**.
+
+## Identitas
+- **Nama:** Arrauf Setiawan Muhammad Jabar
+- **NIM:** 123140032
+
+### Desktop (JVM)
+![Screenshot Desktop](desktop.png)
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
