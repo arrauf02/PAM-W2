@@ -25,6 +25,8 @@ dependencyResolutionManagement {
             }
         }
         mavenCentral()
+        maven("https://maven.pkg.jetbrains.space/public/p/compose/開放")
+        maven("https://maven.pkg.jetbrains.space/public/p/kotlin/temporary")
     }
 }
 
