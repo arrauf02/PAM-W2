@@ -6,10 +6,8 @@
 
 
 ### Desktop (JVM)
-![Screenshot Desktop](desktop1.png)
-![Screenshot Desktop](desktop2.png)
-![Screenshot Desktop](desktop3.png)
-![Screenshot Desktop](desktop4.png)
+![Screenshot Desktop](desktop.png)
+
 
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
